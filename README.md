@@ -13,6 +13,14 @@ This project contains SQL queries that solve real-world healthcare analytics pro
 - Medication and diagnosis management
 - Billing and financial reporting
 
+## 🚀 Approach Summary
+1. Designed a relational healthcare database structure (patients, doctors, appointments, billing, etc.).
+2. Wrote SQL queries to solve real-world healthcare analytics problems.
+3. Used JOINs to connect multiple tables for comprehensive insights.
+4. Applied aggregate functions (COUNT, SUM) and GROUP BY for reporting.
+5. Implemented filtering, ranking, and date-based analysis for performance tracking.
+6. Focused on practical, decision-support insights like revenue, diagnosis trends, and appointment efficiency.  
+
 ## 📊 Database Tables
 
 The project works with the following main tables:
